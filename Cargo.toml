@@ -1,0 +1,9 @@
+[package]
+name = "i3status"
+description = "i3status but for myself"
+version = "0.1.0"
+authors = ["LightDiscord <arnaud@lightdiscord.me>"]
+repository = "https://github.com/LightDiscord/myStatus"
+license = "MIT"
+
+[dependencies]
